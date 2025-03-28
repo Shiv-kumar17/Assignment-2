@@ -6,3 +6,5 @@ Edit the tasks.txt file and add tasks on new file lines
 Reminders
 ## Contribution Guidelines
 Contributors should fork the repository and create a pull request
+## License
+This project is licensed under me
